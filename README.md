@@ -1,7 +1,8 @@
 # Projetos-TI
 
+# Projetos-TI
+
 Projetos e exercícios desenvolvidos durante meus estudos em Ciência da Computação e Tecnologia da Informação.
-Foi desenvolvido para a prática de estudo de inicio, usando comandos básicos, vale ressaltar que não é um banco de dados.
 
 ## SQL - Clientes e Produtos
 
